@@ -2,6 +2,10 @@ h1. Android System Tools App
 
 h2. Author: Maksim Lin <maks@manichord.com>
 
+h2. Purpose
+
+Simple example of how to make and sign an app with system privileges. The included cert will work with AVD systems images (4.0.3) for use wih the SDKs emulator.
+
 h2. Usage
 
 Build the app (Eclipse project file included) and then run it on a device or emulator.
@@ -34,6 +38,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The views and conclusions contained in the software and documentation are those
 of the authors and should not be interpreted as representing official policies, 
-either expressed or implied, of the FreeBSD Project.
+either expressed or implied, of the Square Circle Triangle.
 
 

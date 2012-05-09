@@ -2,5 +2,5 @@
 package au.com.sct.systemtools;
 
 public final class BuildConfig {
-    public final static boolean DEBUG = true;
+    public final static boolean DEBUG = false;
 }

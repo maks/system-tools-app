@@ -9,9 +9,9 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class SystemRebootActivity extends Activity {
+public class SystemToolsActivity extends Activity {
     
-    private static final String TAG = SystemRebootActivity.class
+    private static final String TAG = SystemToolsActivity.class
                     .getSimpleName();
 
     @Override
